@@ -27,7 +27,7 @@ class Book(models.Model):
                             verbose_name='ISBN  книги')
     price = models.CharField(max_length=10,
                              verbose_name='Цена (руб.)')
-    photo = models.ImageField(upload_to='Website/parcer/images/',
+    photo = models.ImageField(upload_to='images/images_.jpg',
                               verbose_name='Изображение обложки')
 
     def __str__(self):
