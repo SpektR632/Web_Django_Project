@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74e454e1-5658-4a22-bec1-65e7cbbf903b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Web_Django_Dip_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/Website/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/Website/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/Website/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/Website/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/Website/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/bookland/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/bookland/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/bookland/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/bookland/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/bookland/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/bookland/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/images/image_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/templates/book_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/templates/book_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Website/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ozT9S98wgMs1cY4JJU3nqSMU3l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.models.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parcer_attr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74e454e1-5658-4a22-bec1-65e7cbbf903b" name="Changes" comment="" />
+      <created>1731871252417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731871252417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
