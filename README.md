@@ -52,6 +52,4 @@ git clone https://github.com/SpektR632/Web_Django_Project.git
 2. Откройте проект в предпочитаемом редакторе;
 3. Установите зависимости из файла requirements.txt;
 4. Перейдите в директорию проекта ```cd Website```;
-5. Запустите локальный сервер для просмотра сайта. Пример запуска: 
-
-```python manage.py runserver```
+5. Запустите локальный сервер для просмотра сайта. Пример запуска: ```python manage.py runserver```
